@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brodoi
-- 👀 I’m interested in programming and 3D art
+- 👀 I’m interested in Unity, C# & Android
 - 🌱 I’m currently learning C# and Unity to make my own games for University and a hobby
 
 

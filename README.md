@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @brodoi
-- 👀 I’m interested in Unity, C# & Android
-- 🌱 I’m currently learning C# and Unity to make my own games for University and a hobby
+- 👀 I’m interested in Unity, C# Kotlin & Android
+- 🌱 I’m currently programming in C# and Unity to make my own games for University and as a hobby
+- Have recently started learning Kotlin through Android Deelopment
+- Intend to learn Web Dev using JavaScript
 
 
 <!---

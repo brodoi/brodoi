@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brodoi.
-- 👀 I’m enjoy developing in Unity using C# to make mobile games.
+- 👀 I enjoy using Unity with C# to develop mobile games.
 - 🌱 Currently learning web dev - HTML, CSS & JS.
 - 
 
